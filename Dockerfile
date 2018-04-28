@@ -3,8 +3,9 @@
 # build info
 # ltoenjes@lpt-dell2
 # cd /home/ltoenjes/exp/githubb/docker-toolbox-alpine/docker-toolbox-alpine.git/trunk
-# docker build -t faroe228/docker-toolbox-alpine   .
+# docker build -t faroe228/docker-toolbox-alpine .
 # docker push     faroe228/docker-toolbox-alpine
+# svn ci --username faroe228 --message "lpt update"
 
 FROM alpine
 
